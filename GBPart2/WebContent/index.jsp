@@ -14,11 +14,6 @@ pageEncoding="ISO-8859-1"%>
 <div class="container"><div class="row"><div class="col-6"> 
 <h1>Fund Management</h1>
 
- <br> Fund ID: 
- <input id="fDesc" name="fDesc" type="text" 
- class="form-control form-control-sm">
-
-
 <form id="formFund" name="formFund">
  Fund Title: 
  <input id="fTitle" name="fTitle" type="text" 
